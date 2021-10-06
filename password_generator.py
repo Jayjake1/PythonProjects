@@ -16,8 +16,8 @@ for char in range(1,nr_letter+1):
 for symbol in range(1,nr_symbols+1):
     random_sym = random.choice(symbols)
     password.append(random_sym)
-for nums in range(1,nr_numbers+1):
-    random_num = random.choice(numbers)
+for nums in range(1,nr_numbers+1): #picking the numbers required
+    random_num = random.choice(numbers) # randomly picking letters from the list above
     password.append(random_num)
 
 print(password)
