@@ -1,7 +1,7 @@
 logo = """
  _____________________
 |  _________________  |
-| | JO           0. | |
+| | CALCULATOR   0. | |
 | |_________________| |
 |  ___ ___ ___   ___  |
 | | 7 | 8 | 9 | | + | |
@@ -53,7 +53,7 @@ def calculator():
     answer = calculation(n1,n2)
     print(f'{n1}{operation_symbol}{n2}={answer}')
 
-    if input("If you wish to continue, enter 'y' :") == 'y':
+    if input("If you wish to continue, enter 'y' or enter 'n' for new calculation or to exit :") == 'y':
       n1 = answer
     elif input("enter 'n' to start a new calculator or type 'no' to exit:") == 'n':
       should_continue = False
@@ -61,4 +61,4 @@ def calculator():
     else:
       should_continue = False  
 
-calculator()  
+calculator()   
