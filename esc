@@ -1,0 +1,176 @@
+[33mcommit 8e24d27e659c0331f13dce62bff67ff873bdc8f8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jayjake1 <jaychowdary605@gmail.com>
+Date:   Wed Jun 22 10:53:17 2022 +0530
+
+    New Folders for projects
+
+[33mcommit ee8904d0b649edf97df422182dce35f94c5ae991[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Thu Jan 27 23:52:32 2022 +0530
+
+    Add files via upload
+
+[33mcommit 99273a09df0d54bc8b125f05f9715831bc0c3f05[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Thu Jan 27 15:58:59 2022 +0530
+
+    Add files via upload
+
+[33mcommit 3ae4bce6568588d8120d1877e0051e281c077dba[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Thu Jan 27 00:36:49 2022 +0530
+
+    Add files via upload
+
+[33mcommit 42d1711616701d7d1f440afb5420ed2488e8f24b[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Sun Dec 12 10:34:01 2021 +0530
+
+    Add files via upload
+    
+    Turtle project
+
+[33mcommit 9df39f7c85be94ed82a47ef4e1ec2f4683e582f0[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Tue Oct 12 18:33:08 2021 +0530
+
+    CoffeeMachine.py
+    
+    The coffee machine project
+
+[33mcommit 2410f6fd6db6f60bedce5ec07aaf33f2fb1fe800[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Mon Oct 11 18:33:35 2021 +0530
+
+    Created using Colaboratory
+
+[33mcommit 66937621736c0c993106073a345d28cc07b81011[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Mon Oct 11 11:59:45 2021 +0530
+
+    NumberGussing.py
+    
+    A number guessing game 🤩
+
+[33mcommit 13c741a93b3790e606e89addbe5c8329ad1006ad[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Sun Oct 10 18:54:18 2021 +0530
+
+    Create BlackJackGame.py
+    
+    A black jack game
+
+[33mcommit eee9b9d9c1ae02040684d187a33935c85805c174[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Sun Oct 10 17:07:46 2021 +0530
+
+    Create SimpleBlackJackGame.py
+    
+    A simple Black Jack game
+
+[33mcommit ee5d4fcfc11aaa052bc810ba7c1b411737499416[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Sat Oct 9 20:44:18 2021 +0530
+
+    Update NotSimpleCalculator.py
+    
+    NotSimpleCalculator takes multiple opertions on user requests.
+    
+    --> Don't mind me for time complexity☮️✌🏼 as its beginner
+
+[33mcommit fc69017f85471c80c366df92c71a189bda346366[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Sat Oct 9 20:39:51 2021 +0530
+
+    Create NotSimpleCalculator.py
+    
+    NotSimpleCalculator is a calculator with continuous input on user request..
+    --> do mind me for TimeComplexity☮️✌🏼 as its begginer lev..
+
+[33mcommit 5369791558c3c9a9e88a45402bac80e6f95e809c[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Sat Oct 9 19:44:48 2021 +0530
+
+    Create SimpleCalculator.py
+    
+    A simple calculator app. Checkout there is a complex calculator too😅
+
+[33mcommit c1848877f3c4ee72336208abc57b54e765d8084b[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Fri Oct 8 18:54:57 2021 +0530
+
+    Create OpenAuction.py
+    
+    Simple autcion program
+
+[33mcommit e1b220f7fcb378fb51c26c1a1acd2d4f630b2794[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Fri Oct 8 02:03:00 2021 +0530
+
+    Create HangmanProject
+    
+    Interactive Hangman game, play it out. Let me know your thoughts.
+
+[33mcommit 88be128be4f0c20b89137ad6ab3e6af233deecc1[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Fri Oct 8 02:00:18 2021 +0530
+
+    Create PrimeNumberChecker.py
+    
+    To find whether given number is prime or not
+
+[33mcommit b1d9754e08ef6c370f1ea7778a4424691f4fc6e8[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Fri Oct 8 01:57:47 2021 +0530
+
+    Create basic_ceaser_cipher.py
+    
+    A basic ceaser cipher program😀
+
+[33mcommit 8826ef513cec54291e556cacb186818853bd953d[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Wed Oct 6 18:20:33 2021 +0530
+
+    Update password_generator.py
+    
+    A random password generator from user specifications
+
+[33mcommit 5b70f9056d8602b19b445200b09c9c7537b3e3c1[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Mon Aug 16 19:25:11 2021 +0530
+
+    Add files via upload
+    
+    Plays a rock paper scissor with user
+
+[33mcommit 2bbdbaefc17eb69fe61531e0c10e088a2c08a257[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Fri Aug 13 20:40:34 2021 +0530
+
+    Create README.md
+
+[33mcommit b21a212327767128cab0343e6aba58a207692947[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Fri Aug 13 20:38:51 2021 +0530
+
+    Add files via upload
+    
+    Tip calculator with basic python
+
+[33mcommit f3e0585e5c8a7f53de7fd134246bed8c4964c0f5[m
+Author: Jayaprakash <jaychowdary605@gmail.com>
+Date:   Fri Aug 13 20:37:00 2021 +0530
+
+    Add files via upload
+
+[33mcommit 7bc5bd99088553853fee61ff2fe633703e42072f[m
+Author: Jayjake1 <jaychowdary605@gmail.com>
+Date:   Sun Apr 18 16:20:11 2021 +0530
+
+    Extractor
+
+[33mcommit c1423a09d2d6c6e445cafe706f0c291cb19579fa[m
+Author: Jayjake1 <jaychowdary605@gmail.com>
+Date:   Mon Apr 5 13:55:57 2021 +0530
+
+    'New_commit'
